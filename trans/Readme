@@ -1,0 +1,7 @@
+This is a demo about using a hand-implementing Transformer to build a translation machine.
+Which contains:
+1.MultiHeadSelfAttention of Encoder and Decoder, supports normal, masked or cross attention at the same time.
+2.Encoder and Decoder implementation.
+3.Encoder and Decoder after Layerstack for the Transformer model
+4.Positional Encoding using constant value.
+5.The Embedding part I used troch.nn
